@@ -231,7 +231,7 @@
       }
 
      #portContainer {
-        max-height: 900px;
+        min-height: 900px;
       }
 
       /* image adjustments */
