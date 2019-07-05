@@ -229,6 +229,11 @@
       #aboutContainer, #portContainer, #contactContainer {
         max-width: 700px;
       }
+
+     #portContainer {
+        max-height: 900px;
+      }
+
       /* image adjustments */
       #about-image {
         width: 100%;
